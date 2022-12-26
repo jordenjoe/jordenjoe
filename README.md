@@ -2,7 +2,7 @@
 - 👀 I’m interested in SWE internships in 2023!
 - 🌱 I’m currently getting my master's in Computer Science at Columbia.
 - 📫 jorden.jolley@gmail.com
-- [https://jordenjoe.github.io/](Check out my portfolio)
+- [Check out my portfolio](https://jordenjoe.github.io/)
 
 <!---
 jordenjoe/jordenjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
