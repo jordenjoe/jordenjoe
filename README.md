@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jorden Jolley!
-- 👀 I’m interested in SWE internships in 2023!
+- 👀 I’m interested in SWE jobs!
 - 🌱 I’m currently getting my master's in Computer Science at Columbia.
 - 📫 jorden.jolley@gmail.com
 - [Check out my portfolio here.](https://jordenjoe.github.io/)
