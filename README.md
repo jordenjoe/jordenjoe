@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jorden Jolley!
-- 🌱 I’m currently a SWE at CLEAR: [Alternate account](https://github.com/jordenjolley)
+- 🌱 I’m currently a SWE at CLEAR: [Work account](https://github.com/jordenjolley)
 - 📫 jorden.jolley@gmail.com
 
 <!---
